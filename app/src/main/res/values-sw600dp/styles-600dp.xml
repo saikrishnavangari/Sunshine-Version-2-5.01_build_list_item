@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ForecastListStyle">
+    <item name="android:choiceMode">singleChoice</item>
+    </style>
+    <style name="fragment_detail_land_textview">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

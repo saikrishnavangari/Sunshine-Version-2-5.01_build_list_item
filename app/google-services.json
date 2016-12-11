@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "432476981071",
+    "firebase_url": "https://stockhawk-152122.firebaseio.com",
+    "project_id": "stockhawk-152122",
+    "storage_bucket": "stockhawk-152122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432476981071:android:83b792e26f07bf18",
+        "android_client_info": {
+          "package_name": "com.example.android.sunshine.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432476981071-h72c0odq46d6o17ffgd68rgdujn4kgaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbYaB2AUGNdDQARZAuupMhOhh1ThYBZ6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
